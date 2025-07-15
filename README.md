@@ -56,23 +56,31 @@
 	</thead>
 	<tbody>
 		<tr>
-<!--			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
-      <img src="./.github/assets/icons/angular.webp" />
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/Marcos-Dantas22/roadmapbackenddeveloper-playground">
+      Backend Developer Roadmap
       </a>
       </td>
 			<td valign="top">
-			<h3>Angular Playground</h3>
-			<p>Exemplos práticos das principais competências de Angular.</p>
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
- 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
-			</a>
-			</td> -->
+			<h3>Roadmap Backend Playground</h3>
+			<p>Exemplos práticos dos conceitos aprendidos seguindo a roadmap de backend.</p>			
+			</td> 
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/Marcos-Dantas22/100daysofpythonbootcamp-playground">
+      100daysOFPythonBootcamp
+      </a>
+      </td>
+			<td valign="top">
+			<h3>100 Days of Code: The Complete Python Pro Bootcamp</h3>
+			<p>Exemplos práticos dos conceitos aprendidos seguindo o curso.</p>
+			</td> 
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/Marcos-Dantas22/edu-flash">
-      EDU
+      EDU Platform
       </a>
       </td>
 			<td valign="top">
