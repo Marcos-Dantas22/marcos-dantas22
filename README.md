@@ -62,8 +62,8 @@
       </a>
       </td>
 			<td valign="top">
-			<h3>Roadmap Backend Playground</h3>
-			<p>Exemplos práticos dos conceitos aprendidos seguindo a roadmap de backend.</p>			
+			<h3>Plataforma de denúncias de problemas urbanos para São Bernardo Maranhão</h3>
+			<p>Um crud simples com formulario para criar denuncias com videos, textos e fotos e listar as denúncias.</p>			
 			</td> 
 		</tr>
 		<tr>
